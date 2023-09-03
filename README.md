@@ -10,7 +10,5 @@ To Do:
 
 Improvement Ideas:
 - clip y
-- normalize x
-- remove correlated x variables
-- scale x
-- select only a few important x variables
+- remove anomolous rows
+- can't do anything to x variables
